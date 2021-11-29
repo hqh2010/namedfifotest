@@ -1,8 +1,8 @@
 # 说明
 
-This is a demo for fifo.
+This is a demo for named fifo.
 
-命令管道以非阻塞方式写入时，必须先运行read管道，否则write端报错
+命名管道以非阻塞方式写入时，必须先运行read管道，否则write端报错
 
 # 使用方式
 
@@ -30,9 +30,10 @@ This is a demo for fifo.
 
 quit
 
-可以在fiforead终端看到write终端写入的值
+可以在fiforead终端看到fifowrite终端写入的值
 
 # 参考文档
 
-命名管道阻塞与非阻塞
+命名管道阻塞与非阻塞说明
+
 [https://blog.csdn.net/zuozi123456/article/details/51440144]()
