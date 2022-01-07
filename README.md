@@ -37,3 +37,6 @@ quit
 命名管道阻塞与非阻塞说明
 
 [https://blog.csdn.net/zuozi123456/article/details/51440144]()
+
+https://www.cnblogs.com/fortunely/p/14648146.html
+
