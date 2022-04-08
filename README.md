@@ -1,6 +1,6 @@
 # 说明
 
-This is a demo for named fifo.
+This is a demo for named fifo. 使用C语言实现了一个简单的进度条。
 
 命名管道以非阻塞方式写入时，必须先运行read管道，否则write端报错
 
